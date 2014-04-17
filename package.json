@@ -1,0 +1,8 @@
+{
+  "name": "accessible",
+  "version": "0.0.1",
+  "description": "Add .attr(name, opts) method to constructors",
+  "devDependencies": {
+    "mocha": "~1.18.0"
+  }
+}

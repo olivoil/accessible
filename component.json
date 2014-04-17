@@ -1,0 +1,14 @@
+{
+  "name": "accessible",
+  "description": "Adds attributes to constructors",
+  "scripts": ["index.js"],
+  "main": "index.js",
+  "development": {
+    "dependencies": {
+      "component/assert": "*"
+    }
+    "scripts": [
+      "test.js"
+    ]
+  }
+}
