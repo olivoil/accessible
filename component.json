@@ -6,7 +6,7 @@
   "development": {
     "dependencies": {
       "component/assert": "*"
-    }
+    },
     "scripts": [
       "test.js"
     ]
